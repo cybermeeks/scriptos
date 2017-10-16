@@ -1,0 +1,2 @@
+# scriptos
+for oscp training
